@@ -6,7 +6,7 @@ const Header = () => {
       <div className='container'>
         <div className='row space-between'>
           <div className='logo'>
-            <Link to='/'>JIMMY FERMIN</Link>
+            <Link to='/'>Ayman Ali</Link>
           </div>
           <div className='menu'>MENU</div>
         </div>
